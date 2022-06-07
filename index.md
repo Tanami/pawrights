@@ -1,5 +1,3 @@
-# 1
-## 2
 # Paw Rights
 <pre></pre>
 ## Go to app: [Here](https://docassemble3.flinders.edu.au)
