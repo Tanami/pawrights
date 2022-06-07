@@ -16,7 +16,7 @@ Please try the app out and we welcome your feedback about improving it.
 
 ---
 
-This app is a part of a national study. With your help, enough data will be gathered to document the full national problem of assistance dog refusals, and we will be making the case for both an official single-point complaint system and more definitive action against those who break the law by refusing access. We will anonymously be grouping refusals together (no individual names of course) to aggregate the number and types of refusals happening across Australia. These overall anonymous counts can be used to understand how large the problem is and where it is happening the most.
+This app is a part of a national study. With your help, enough data will be gathered to document the full national problem of assistance dog refusals. We will anonymously be grouping refusals together (no individual names of course) to aggregate the number and types of refusals happening across Australia. These overall anonymous counts can be used to understand how large the problem is and where it is happening the most.
 
 ---
 
