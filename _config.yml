@@ -1,4 +1,3 @@
-theme: jekyll-theme-slate
 
 title : Paw Rights - Study
 author :
@@ -7,3 +6,10 @@ author :
   github : Tanami
 
 production_url : https://pawrights.com.au
+
+
+# Build settings
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jonaharagon/jekyll-bootstrap-theme
