@@ -1,6 +1,8 @@
-# Go to app: [Here](https://docassemble3.flinders.edu.au)
+# 
+# Paw Rights
+## Go to app: [Here](https://docassemble3.flinders.edu.au)
 
-## Do you have assistance dog access refusals? Have been you denied access to transport (e.g. taxis, trains) or hospitality venues (restaurants, hotels)? Would you like a mobile app to help you record what happened and have an organised summary of the event sent to your email?
+### Do you have assistance dog access refusals? Have been you denied access to transport (e.g. taxis, trains) or hospitality venues (restaurants, hotels)? Would you like a mobile app to help you record what happened and have an organised summary of the event sent to your email?
 
 
 The Paw Rights App allows you to record assistance dog access refusals and have documentation of the event sent to your email, along with links of where to make a complaint. :arrow_right::arrow_right: [Go To Paw Rights](https://docassemble3.flinders.edu.au)
