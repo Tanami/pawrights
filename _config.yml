@@ -1,12 +1,10 @@
 
 title : Paw Rights - Study
 author :
-  name : Tanami Muller
-  email : weitzeug@gmail.com
-  github : Tanami
+  name : Amanda Muller
+  email : amanda.muller@flinders.edu.au
 
 production_url : https://pawrights.com.au
-
 
 # Build settings
 plugins:
