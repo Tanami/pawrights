@@ -7,7 +7,7 @@
 
 <pre></pre>
 
-The Paw Rights App allows you to record assistance dog access refusals and have documentation of the event sent to your email, along with links of where to make a complaint. ➡➡[Go To Paw Rights](https://docassemble3.flinders.edu.au)
+The Paw Rights App allows you to record assistance dog access refusals and have documentation of the event sent to your email, along with links of where to make a complaint. ➡➡ [Go To Paw Rights](https://docassemble3.flinders.edu.au)
 
 ---
 
